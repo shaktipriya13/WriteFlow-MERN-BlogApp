@@ -184,6 +184,7 @@ Visit the deployed app: [WriteFlow on Vercel](https://writeflow.vercel.app/) _(u
 
 ### Homepage
 
+<img width="1827" height="842" alt="image" src="https://github.com/user-attachments/assets/e4033ec7-ba5d-446b-b511-573812817ec7" />
 
 
 ### Blog Page
