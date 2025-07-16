@@ -184,15 +184,21 @@ Visit the deployed app: [WriteFlow on Vercel](https://writeflow.vercel.app/) _(u
 
 ### Homepage
 
-![Homepage](https://via.placeholder.com/800x400.png?text=WriteFlow+Homepage)
+
 
 ### Blog Page
 
-![Blog Page](https://via.placeholder.com/800x400.png?text=WriteFlow+Blog+Page)
+<img width="1137" height="865" alt="image" src="https://github.com/user-attachments/assets/3c677cf3-7774-4043-97c9-cee8657e2e29" />
+
 
 ### Admin Dashboard
 
-![Admin Dashboard](https://via.placeholder.com/800x400.png?text=WriteFlow+Admin+Dashboard)
+<img width="1844" height="792" alt="image" src="https://github.com/user-attachments/assets/af78a0fc-1766-42cd-aa2f-7a89061c0b86" />
+
+### Content Generation with AI
+
+<img width="798" height="804" alt="image" src="https://github.com/user-attachments/assets/75448c1d-e372-4993-bc68-81b51f155277" />
+
 
 ---
 
