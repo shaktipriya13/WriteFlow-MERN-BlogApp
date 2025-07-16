@@ -1,6 +1,7 @@
 # WriteFlow🍃: AI-Enabled Full Stack Blog Platform
 
-![1751970646445](image/README/1751970646445.png)
+<img width="1827" height="842" alt="image" src="https://github.com/user-attachments/assets/05bae76d-f630-4482-be4d-8b77d593ac47" />
+
 
 ## Overview
 
@@ -182,9 +183,9 @@ Visit the deployed app: [WriteFlow on Vercel](https://writeflow.vercel.app/) _(u
 
 ## Screenshots
 
-### Homepage
+### Admin Login
 
-<img width="1827" height="842" alt="image" src="https://github.com/user-attachments/assets/e4033ec7-ba5d-446b-b511-573812817ec7" />
+![Uploading image.png…]()
 
 
 ### Blog Page
